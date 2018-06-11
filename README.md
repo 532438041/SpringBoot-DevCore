@@ -1,2 +1,2 @@
-# smallTao-SpringBoot-DevCore
+# SpringBoot-DevCore
 SpringBoot
